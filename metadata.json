@@ -1,0 +1,8 @@
+{
+  "name": "PT Garda Artha Sejahtera",
+  "description": "Professional asset management and investment laboratory platform focusing on risk management and transparency, compliant with Bappebti regulations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
